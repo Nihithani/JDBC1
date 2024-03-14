@@ -1,2 +1,6 @@
-# JDBC1
-PAT DAILY CLASS NOTES (JAVA)
+
+## PAT DAILY CLASS NOTES
+* JAVA full stack
+* Compititive programming
+* puzzle
+* DBMS
